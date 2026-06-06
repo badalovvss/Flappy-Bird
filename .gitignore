@@ -1,0 +1,23 @@
+# Visual Studio geçici dosyaları
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
+*.VC.db
+
+# Derleme çıktıları
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Oyun motoru kütüphaneleri ve çalıştırılabilir dosyalar
+*.dll
+*.exe
+*.ilk
+*.pdb
+*.exp
+*.lib
